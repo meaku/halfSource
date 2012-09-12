@@ -2,7 +2,7 @@
     "name": "halfSource",
     "description": "Give it your code - get half of your code back",
     "version": "0.1.0",
-    "repository": "git://github.com/peerigon/alamid.git",
+    "repository": "git://github.com/meaku/halfsource.git",
     "author": "peerigon",
     "main": "./lib/index.js",
     "keywords": ["serious", "business"],
@@ -11,8 +11,5 @@
     },
     "dependencies": {
         "fshelpers": "https://github.com/peerigon/fshelpers/tarball/v0.2.1"
-    },
-    "scripts" : {
-        "test" : "jake test-all"
     }
 }
